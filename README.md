@@ -1,4 +1,5 @@
-This is the resume bulider made for practice and project purpose.
+This is the resume bulider made for practice and project purpose. 
+Coding Raja internship task 1
 
 Preview of the project
 ![Screenshot (9)](https://github.com/sanketcodersclub/resume-builder/assets/164201293/cced573a-32a0-420d-bf72-a3f119b8e537)
